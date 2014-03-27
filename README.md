@@ -12,3 +12,9 @@ Using iPhone backup extractor (http://supercrazyawesome.com/) i exported the PPS
 Turns out that it's just a SQLite Db, so I wrote this small script to export the images.
 
 Leaving it here if someone else needs it :)
+
+Usage
+==================
+1. Export the app data using iPhone backup extractor (http://supercrazyawesome.com/)
+2. run the script on the PPStorage.private file: ./export_privatepics.py PPStorage.private (exports to current dir)
+3. Enjoy your files :)
