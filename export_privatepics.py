@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 # encoding: utf-8
 """
-privatepics.py
+export_privatepics.py
 Created by Magnus Wahlberg on 2014-03-27.
+V0.0.1
+
 """
 
 import sys
