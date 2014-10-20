@@ -17,5 +17,5 @@ Usage
 ==================
 1. Export the app data using iPhone backup extractor (http://supercrazyawesome.com/)
 ![](https://raw.githubusercontent.com/endast/Export-privatepics/master/docs/extractor.png)
-2. run the script on the PPStorage.private file: ./export_privatepics.py PPStorage.private (exports to current dir)
+2. run the script on the PPStorage.private file: $python export_privatepics.py PPStorage.private (exports to current dir)
 3. Enjoy your files :)
